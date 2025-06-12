@@ -1,2 +1,3 @@
 # .github
-Sobre a Novustec
+
+Apresentação publica da Novustec.
